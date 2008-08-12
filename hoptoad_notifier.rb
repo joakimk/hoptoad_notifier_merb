@@ -1,7 +1,3 @@
-# This is a basic adaption of the rails plugin to merb. It does not have all the features of the original.
-# - This plugin can be found at http://github.com/joakimk/hoptoad_notifier_merb/tree/master
-# - The original rails plugin can be found at http://github.com/thoughtbot/hoptoad_notifier/tree/master
-
 require 'net/http'
 
 class String
