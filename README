@@ -1,3 +1,13 @@
+This plugin is no longer being maintained.
+
+It seems that the rack_hoptoad project is what you should use for Merb now:
+http://github.com/atmos/merb_hoptoad_notifier
+
+If you need a merb specific hoptoad plugin check:
+http://github.com/atmos/rack_hoptoad
+
+--
+
 This is a basic adaption of the rails hoptoad plugin for use with merb (only essential features included).
 
 This plugin: http://github.com/joakimk/hoptoad_notifier_merb/tree/master
