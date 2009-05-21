@@ -1,10 +1,10 @@
 This plugin is no longer being maintained.
 
 It seems that the rack_hoptoad project is what you should use for Merb now:
-http://github.com/atmos/merb_hoptoad_notifier
+http://github.com/atmos/rack_hoptoad
 
 If you need a merb specific hoptoad plugin check:
-http://github.com/atmos/rack_hoptoad
+http://github.com/atmos/merb_hoptoad_notifier
 
 --
 
